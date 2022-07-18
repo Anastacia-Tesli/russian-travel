@@ -1,6 +1,5 @@
 .footer {
     max-width: 100%;
-    box-sizing: border-box;
     margin: 64px 16px 24px;
 }
 @media screen and (min-width: 768px) {

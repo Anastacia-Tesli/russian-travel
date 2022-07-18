@@ -28,4 +28,4 @@ Flexbox и grid-сетки, медиазапросы
 
 **Подробнее**
 
-Проект на [GitHub](https://github.com/Anastacia-Tesli/russian-travel.git)
+Проект на [GitHub Pages](https://anastacia-tesli.github.io/russian-travel/)
