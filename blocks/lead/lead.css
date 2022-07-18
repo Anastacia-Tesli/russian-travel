@@ -1,0 +1,14 @@
+.lead {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 1024px) {
+    .lead {
+        margin: 0 48px;
+    }
+}
+@media screen and (min-width: 1280px) {
+    .lead {
+        margin: 0 148px;
+    }
+}
